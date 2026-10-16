@@ -1,34 +1,55 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9260cc&height=120&section=header"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9260cc&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9260cc&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg) 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-chi-ecru-55.vercel.app/api?username=vinciuscastro&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=9260cc&icon_color=9260cc&text_color=c9d1d9&bg_color=0d1117" alt="Vinicius Castro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-chi-ecru-55.vercel.app/api/top-langs/?username=vinciuscastro&layout=compact&hide_border=true&title_color=9260cc&text_color=9260cc&bg_color=0d1117" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=9260CC&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29;Computer+Science+%40+UFSCar;Software+Engineer+%C2%B7+Distributed+Systems;Python+%C2%B7+Go+%C2%B7+React+19+%C2%B7+Flutter" alt="Typing SVG" />
+  </a>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinciuscastro&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
 
+<div align="center">
+  <!-- Gráfico de Streak e Contribuições Reais (Lê suas 2.875 contribuições) -->
+  <img height="195px" src="https://streak-stats.demolab.com?user=vinciuscastro&theme=dark&background=0d1117&border=9260cc&stroke=9260cc&ring=9260cc&fire=9260cc&currStreakNum=9260cc&sideNums=9260cc&dates=c9d1d9" alt="GitHub Streak" />
+  <!-- Gráfico de Top Linguagens -->
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinciuscastro&layout=compact&hide_border=true&title_color=9260cc&text_color=9260cc&bg_color=0d1117" alt="Top Languages" />
+</div>
 
-### Main skills:
+<br/>
 
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
+<div align="center">
+  <!-- Animação Snake devorando os commits (Gerada via GitHub Action) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinciuscastro/vinciuscastro/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinciuscastro/vinciuscastro/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/vinciuscastro/vinciuscastro/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
 
+<br/>
 
+### 🛠️ Principais Tecnologias & Habilidades:
 
- 
-### Other Knowledge:
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-![SQLite](https://img.shields.io/badge/-sqlite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&logoColor=3776AB" />&nbsp;
+  <img src="https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&labelColor=0D1117&logoColor=00ADD8" />&nbsp;
+  <img src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=61DAFB" />&nbsp;
+  <img src="https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117&logoColor=02569B" />&nbsp;
+  <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&logoColor=3178C6" />&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&logoColor=F7DF1E" />&nbsp;
+  <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&logoColor=2496ED" />
+</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9260cc&height=120&section=footer"/>
+### 🗄️ Bancos de Dados & Outros Conhecimentos:
 
+<p align="left">
+  <img src="https://img.shields.io/badge/-DuckDB-0D1117?style=for-the-badge&logo=duckdb&labelColor=0D1117&logoColor=FFF000" />&nbsp;
+  <img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&logoColor=4169E1" />&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&logoColor=4479A1" />&nbsp;
+  <img src="https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117&logoColor=003B57" />&nbsp;
+  <img src="https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117&logoColor=FFCA28" />&nbsp;
+  <img src="https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117&logoColor=092E20" />&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117&logoColor=white" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9260cc&height=120&section=footer"/>
